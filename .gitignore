@@ -1,0 +1,5 @@
+_site
+.jekyll-cache
+.vscode
+.Gemfile.lock
+.DS_Store
