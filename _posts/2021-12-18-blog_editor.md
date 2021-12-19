@@ -2,7 +2,7 @@
 layout: post
 title: "블로그를 관리해보자"
 author: "say2"
-tags: ["blog", "jekyll","editor"]
+tags: [ "jekyll","jekyll editor"]
 categories: [Etc]
 ---
 
