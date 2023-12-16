@@ -3,3 +3,4 @@ _site
 .vscode
 .Gemfile.lock
 .DS_Store
+vendor
